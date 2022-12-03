@@ -5,7 +5,7 @@ import numpy as np
 from pygame import mixer
 import time
 # from google.colab.patches import cv2_imshow
-
+#import pygame 
 mixer.init()
 snd = mixer.Sound('alarm.wav')
 
